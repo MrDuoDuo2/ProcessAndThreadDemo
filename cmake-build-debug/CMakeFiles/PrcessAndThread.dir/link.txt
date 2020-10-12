@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PrcessAndThread.dir/main.cpp.o  -o PrcessAndThread  -lpthread 
