@@ -68,10 +68,10 @@ RM = /home/zyx/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cm
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/zyx/workspace/PrcessAndThread
+CMAKE_SOURCE_DIR = /home/zyx/workspace/process-thread-demo
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/zyx/workspace/PrcessAndThread/cmake-build-debug
+CMAKE_BINARY_DIR = /home/zyx/workspace/process-thread-demo/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -100,9 +100,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyx/workspace/PrcessAndThread/cmake-build-debug/CMakeFiles /home/zyx/workspace/PrcessAndThread/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyx/workspace/process-thread-demo/cmake-build-debug/CMakeFiles /home/zyx/workspace/process-thread-demo/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyx/workspace/PrcessAndThread/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyx/workspace/process-thread-demo/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/zyx/workspace/PrcessAndThread/main.cpp" "/home/zyx/workspace/PrcessAndThread/cmake-build-debug/CMakeFiles/PrcessAndThread.dir/main.cpp.o"
+  "/home/zyx/workspace/process-thread-demo/main.cpp" "/home/zyx/workspace/process-thread-demo/cmake-build-debug/CMakeFiles/PrcessAndThread.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

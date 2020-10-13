@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/zyx/workspace/PrcessAndThread/main.cpp
+/home/zyx/workspace/process-thread-demo/main.cpp
 stdio.h
 -
 string.h
@@ -16,7 +16,5 @@ unistd.h
 stdlib.h
 -
 thread
--
-iostream
 -
 

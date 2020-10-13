@@ -31,11 +31,8 @@ void childProcess(int childPid) {
     active();
 }
 void myThread() {
-<<<<<<< HEAD
     printf("线程启动成功,退出进程\n");
-=======
-    printf("线程启动成功,关闭退出进程\n");
->>>>>>> 12d51479a8b866c6346a1cbcaf4b0bb7c75fb568
+    system("ls");
     exit(1);
 }
 
