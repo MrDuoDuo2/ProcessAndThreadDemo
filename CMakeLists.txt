@@ -3,7 +3,7 @@ project(PrcessAndThread)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(PrcessAndThread main.cpp)
+add_executable(PrcessAndThread main.c)
 
 find_package(Threads)
 

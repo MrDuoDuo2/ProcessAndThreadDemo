@@ -33,3 +33,4 @@
 
 # Dir And File
 cmake-build-debug/
+.idea/

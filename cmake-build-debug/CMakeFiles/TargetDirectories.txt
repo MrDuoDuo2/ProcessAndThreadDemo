@@ -1,3 +1,0 @@
-/mnt/d/workspace/ProcessAndThreadDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/d/workspace/ProcessAndThreadDemo/cmake-build-debug/CMakeFiles/PrcessAndThread.dir
-/mnt/d/workspace/ProcessAndThreadDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
